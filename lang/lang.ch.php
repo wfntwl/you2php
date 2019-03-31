@@ -64,7 +64,7 @@ $lang['LIB_COUNTRY_ID'] = array(
     'IT' => '意大利',           'IN' => '印度',               'ID' => '印尼',              'GB' => '英国',          'JO' => '约旦',        'VN' => '越南',
     'CL' => '智利',
 );
-$lang['LIB_SHAREIT_FWYI'] = "免翻墙Youtube镜像";
+$lang['LIB_SHAREIT_FWYI'] = "Youtube镜像";
 $lang['LIB_SHAREIT_M1'] = "我正在通过这个网站看";
 $lang['LIB_SHAREIT_M2'] = "不用翻墙看全球视频，手机电脑都能看，快来试试吧！";
 $lang['LIB_SHAREIT_T'] = "分享到QQ空间";
